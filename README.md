@@ -24,4 +24,4 @@ The outcome of this program allows users to capture a photograph of themselves, 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/facial-emotion-recognition.git
+   git clone https://github.com/BraulioIAC/Facial-emotion-recognition-using-SVD-and-LBPH.git
